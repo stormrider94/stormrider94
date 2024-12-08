@@ -17,11 +17,13 @@ Data Visualization: Explored tools like Matplotlib and Plotly to visualize data 
 Game Development: Built an Alien Invader game using Pygame.
 
 Desktop Apps: Developed simple desktop applications using Tkinter.
+
 🌱 Currently Learning
 
 Improving my full-stack development skills with a focus on Node.js and Flask backends.
 Deepening my knowledge of TypeScript and advanced React patterns.
 Exploring more tools and frameworks for automation and data visualization.
+
 💞️ Collaboration
 
 I’m open to collaborating on projects involving:
@@ -29,6 +31,7 @@ I’m open to collaborating on projects involving:
 Full-stack web and mobile applications.
 Data visualization and dashboard tools.
 Automation scripts for web or desktop.
+
 📫 How to Reach Me
 
 Email: lasseyelliot86@gmail.com

@@ -5,11 +5,17 @@ I’m a passionate web and software developer with a love for solving problems a
 🌟 What I’ve Worked On
 
 Web Development: Proficient in HTML, CSS, Python and JavaScript, with experience using frameworks and tools like React, Next.js, TypeScript, and Tailwind CSS. I’ve built web apps connected to APIs and styled with Material UI, Bootstrap, and NativeWind.
+
 Mobile Development: Built a mobile app using React Native and Expo, leveraging tools like Appwrite for backend services.
+
 Backend & APIs: Created servers using Express and Node.js, and developed basic Flask backends for processing data and returning results.
+
 Automation: Experienced in browser automation (Selenium, Beautiful Soup) and GUI automation (PyAutoGUI, PyWidget).
+
 Data Visualization: Explored tools like Matplotlib and Plotly to visualize data effectively.
+
 Game Development: Built an Alien Invader game using Pygame.
+
 Desktop Apps: Developed simple desktop applications using Tkinter.
 🌱 Currently Learning
 

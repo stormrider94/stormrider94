@@ -14,13 +14,13 @@ Automation: Experienced in browser automation (Selenium, Beautiful Soup) and GUI
 
 Data Visualization: Explored tools like Matplotlib and Plotly to visualize data effectively.
 
-Game Development: Built an Alien Invader game using Pygame.
+Game Development: Built an Alien Invasion game using Pygame.
 
 Desktop Apps: Developed simple desktop applications using Tkinter.
 
 🌱 Currently Learning
 
-Improving my full-stack development skills with a focus on Node.js and Flask backends.
+Improving my full-stack development skills with a focus on Node.js and express backends and exploring NoSQL and SQL databases such as mongoDB, firebas, planetScale, Supabase and postgreSQL for the mean time 
 Deepening my knowledge of TypeScript and advanced React patterns.
 Exploring more tools and frameworks for automation and data visualization.
 
